@@ -1,8 +1,10 @@
-# DSA Problems — Java
+# DSA Problems — Java 💻
 
-A structured collection of Data Structures & Algorithms problems solved in Java for interview preparation and problem-solving practice.
+A structured collection of **Data Structures & Algorithms problems solved in Java** for software-engineering interview preparation.
 
-## What this repository covers
+The goal is simple: practice common patterns, write clean solutions, and understand the complexity behind each approach.
+
+## 📚 Topics
 
 - Arrays & Hashing
 - Strings
@@ -13,11 +15,11 @@ A structured collection of Data Structures & Algorithms problems solved in Java 
 - Recursion & Backtracking
 - Dynamic Programming
 - Searching & Sorting
-- Greedy techniques
+- Greedy Algorithms
 
-## Repository Structure
+## 🧩 Repository Structure
 
-Each problem is organized in its own directory using the problem number and title, for example:
+Problems are organized by problem number and title:
 
 ```text
 DSA-PROBLEMS/
@@ -29,25 +31,39 @@ DSA-PROBLEMS/
 └── ...
 ```
 
-## Approach
+Each solution is intended to be:
 
-Solutions focus on:
+- Easy to review
+- Correct on edge cases
+- Interview-friendly
+- Accompanied by time and space complexity reasoning where applicable
 
-1. Clear problem-solving logic
-2. Correctness and edge cases
-3. Time and space complexity
-4. Interview-friendly Java implementations
+## 🎯 Problem-Solving Focus
 
-## Goal
+```text
+Understand the problem
+        ↓
+Identify the pattern
+        ↓
+Build a brute-force idea
+        ↓
+Optimize using constraints
+        ↓
+Implement in Java
+        ↓
+Check complexity + edge cases
+```
 
-Build strong DSA fundamentals for software engineering interviews through consistent practice and progressively harder problems.
-
-## Language
+## 🛠️ Language
 
 **Java**
 
+## 🚀 Goal
+
+Build strong DSA fundamentals through consistent practice across progressively harder problems and commonly asked interview patterns.
+
 ## Author
 
-**Rudra Pratap Singh**
+**Rudra Pratap Singh** — B.Tech CSE (AI)
 
-GitHub: https://github.com/deadlyrps2802
+GitHub: [@deadlyrps2802](https://github.com/deadlyrps2802)
